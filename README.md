@@ -82,4 +82,4 @@ Good bye!
 
 ## Modules
 
-The folder `bot_utils` contains all the auxiliary utilities necessary for the function to work.
+The folder `bot_utils` contains all the auxiliary utilities necessary for the Bot to work.
