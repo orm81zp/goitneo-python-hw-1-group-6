@@ -32,7 +32,7 @@ def main():
                     for name, phone in contacts.items():
                         print(f"{name}: {phone}")
                 else:
-                    print("There are no contacts to display")
+                    print("There are no contacts to display.")
             elif command == "help":
                 show_help()
             else:
