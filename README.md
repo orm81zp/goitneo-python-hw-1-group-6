@@ -4,7 +4,7 @@ Home work consists of 2 tasks
 
 ## Description
 
-File name `get_birthdays_per_week.py`. The file contains a function `get_birthdays_per_week` that's called with a list of dictionaries. Each dictionary has such required keys as `name` and `birthday`.
+File name `get_birthdays_per_week.py`. The file contains a function `get_birthdays_per_week` that's called with a list of dictionaries. Each dictionary must have such required keys as `name` and `birthday`.
 
 Example of a dictionary:
 
@@ -41,7 +41,7 @@ get_birthdays_per_week(users)
 
 File name `bot.py`. The file contains a main function and be called dirrectly from the console `python bot.py`.
 
-Basic commands for communication with the Bot:
+Basic commands:
 
 ```
 hello                - used to show a welcome message
@@ -82,4 +82,4 @@ Good bye!
 
 ## Modules
 
-The folder `bot_utils` contains all the auxiliary utilities necessary for the Bot to work.
+The folder `bot_utils` contains all the important utilities for the Bot to work.

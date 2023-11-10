@@ -17,7 +17,7 @@ COMMANDS = {
 
 def show_help():
     """Shows help information"""
-    print("Please, use the following commands:\n")
+    print("Please, use only the following commands:\n")
     for command in COMMANDS:
         print("{:<20} - {:<30}".format(command, COMMANDS[command]))
     print()
